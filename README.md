@@ -1,0 +1,2 @@
+# Artificial-Intel
+Ai class
