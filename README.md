@@ -1,2 +1,2 @@
 # Artificial-Intel
-Ai class
+HW 1 – Local Search Algorithms
